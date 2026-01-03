@@ -1,6 +1,6 @@
-## Hello!
+# Hello!
 
-I am interested in game development. Currently, I am making games in the Godot Engine. I also have experience in making Unity games.
+I am interested in game development. Currently, I am making games in the Godot Engine. I also have some experience with making Unity games.
 
 
 <!--
