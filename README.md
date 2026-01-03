@@ -1,7 +1,7 @@
 # Hello!
 
 I am interested in game development. Currently, I am making games in the Godot Engine. I also have some experience with making Unity games.
-
+For game dev, I have been learning software like Blender, Audacity, Krita and FL Studio.
 
 <!--
 - 🔭 I’m currently working on ...
