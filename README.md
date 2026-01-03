@@ -1,10 +1,9 @@
-## Hi there 👋
+## Hello!
+
+I am interested in game development. Currently, I am making games in the Godot Engine. I also have experience in making Unity games.
+
 
 <!--
-**Hufid/Hufid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
